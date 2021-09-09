@@ -1,0 +1,9 @@
+/* Цифры и факты */
+.digits{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  align-items: center;
+}

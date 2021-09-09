@@ -1,0 +1,11 @@
+
+/* дядька Фейнман */
+.feynman{
+  flex-direction: column;
+  align-items: center;
+  min-height: 890px;
+  box-sizing: border-box;
+  background-color: #F2F2F2;
+  position: relative;
+  display: flex;
+}
