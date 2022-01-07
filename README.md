@@ -18,6 +18,6 @@
 * Адаптировать сайт для просмотра на разных устройствах
 
 ## Ссылка на сайт:
-https://github.com/elwoode/how-to-learn/blob/main/index.html
+https://elwoode.github.io/how-to-learn/
 
 ## Автор Виктор Думанаев
