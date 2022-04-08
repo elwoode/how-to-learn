@@ -18,6 +18,5 @@
 - Методология БЭМ;
 - Фйловая структура Nested БЭМ;
 - Работа с медиафайлами (HTML-video, iframe);
-- Вёрстка по макету в Figma.
 
 [Ссылка на сайт](https://elwoode.github.io/how-to-learn/)
